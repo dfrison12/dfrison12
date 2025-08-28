@@ -45,7 +45,7 @@ I’m a software engineer specializing in web development, passionate about buil
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfrison12&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfrison12&layout=compact&theme=radical)
 
 ---
 
